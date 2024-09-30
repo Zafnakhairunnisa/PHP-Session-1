@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Harry Potter and the Philosopher's Stone",
+        "author": "J.K. Rowling",
+        "stock": 5
+    },
+    {
+        "id": 2,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "stock": 3
+    },
+    {
+        "id": 3,
+        "title": "1984",
+        "author": "George Orwell",
+        "stock": 4
+    },
+    {
+        "id": 4,
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "stock": 2
+    },
+    {
+        "id": 5,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "stock": 2
+    }
+]
